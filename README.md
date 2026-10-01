@@ -30,6 +30,12 @@ I work with video, lighting, software, and hardware for live events and interact
 
 The portfolio is organized for project descriptions, system diagrams, demos, and code. Project case studies are being prepared and will appear in the [project list](https://github.com/pranavkb7/engineering-portfolio/blob/main/projects/README.md) as they are added.
 
+## HYTECS company projects
+
+**[View my HYTECS project work →](https://github.com/pranavkb7/engineering-portfolio/blob/main/projects/hytecs/README.md)**
+
+A dedicated section for company project case studies, covering my responsibilities, technical delivery, and results. Case studies will appear as they are added.
+
 ## Skills & tools
 
 | Area | Tools |
@@ -47,3 +53,4 @@ The portfolio is organized for project descriptions, system diagrams, demos, and
 For AV integration, interactive installations, show control, or collaboration:
 
 **[pranavkbijith@gmail.com](mailto:pranavkbijith@gmail.com)**
+
