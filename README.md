@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pranavkb7/PRANAV-BIJITH"><strong>My portfolio</strong></a>
+  <a href="https://github.com/pranavkb7/engineering-portfolio"><strong>My portfolio</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/pranavkb7/PRANAV-BIJITH/blob/main/projects/README.md">Projects</a>
+  <a href="https://github.com/pranavkb7/engineering-portfolio/blob/main/projects/README.md">Projects</a>
   &nbsp; · &nbsp;
   <a href="mailto:pranavkbijith@gmail.com">Contact me</a>
 </p>
@@ -26,9 +26,9 @@ I work with video, lighting, software, and hardware for live events and interact
 
 ## Explore my work
 
-**[Open my engineering portfolio →](https://github.com/pranavkb7/PRANAV-BIJITH)**
+**[Open my engineering portfolio →](https://github.com/pranavkb7/engineering-portfolio)**
 
-The portfolio is organized for project descriptions, system diagrams, demos, and code. Project case studies are being prepared and will appear in the [project list](https://github.com/pranavkb7/PRANAV-BIJITH/blob/main/projects/README.md) as they are added.
+The portfolio is organized for project descriptions, system diagrams, demos, and code. Project case studies are being prepared and will appear in the [project list](https://github.com/pranavkb7/engineering-portfolio/blob/main/projects/README.md) as they are added.
 
 ## Skills & tools
 
@@ -47,4 +47,3 @@ The portfolio is organized for project descriptions, system diagrams, demos, and
 For AV integration, interactive installations, show control, or collaboration:
 
 **[pranavkbijith@gmail.com](mailto:pranavkbijith@gmail.com)**
-
