@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="title desc">
+  <title id="title">Pranav K B — AV Systems and Immersive Experience Engineer</title>
+  <desc id="desc">A charcoal engineering banner with warm white typography, a mint signal path, and layered display panels. Based in Dubai, UAE.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e1c"/><stop offset="1" stop-color="#10182a"/></linearGradient>
+    <radialGradient id="ambient"><stop stop-color="#164d89" stop-opacity=".65"/><stop offset="1" stop-color="#10294d" stop-opacity="0"/></radialGradient>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#16365b"/><stop offset="1" stop-color="#071526"/></linearGradient>
+    <linearGradient id="edge"><stop stop-color="#67e8f9" stop-opacity=".9"/><stop offset="1" stop-color="#67e8f9" stop-opacity=".16"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="microgrid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#78b3ff" stroke-opacity=".045"/></pattern><clipPath id="round"><rect width="1600" height="540" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1600" height="540" fill="url(#bg)"/>
+    <rect width="1600" height="540" fill="url(#microgrid)"/><ellipse cx="1230" cy="235" rx="450" ry="410" fill="url(#ambient)"/>
+    <path d="M1050 88h-18v18M1533 88h18v18M1533 414h18v-18M1050 414h-18v-18" fill="none" stroke="#4b82b1" stroke-opacity=".7"/><path d="M76 130H700" stroke="#5e9dd1" stroke-opacity=".12"/><path d="M948 0V540M0 450H1600" stroke="#e7ecdf" stroke-opacity=".08"/>
+    <path d="M948 0H1600V540H948" fill="none" stroke="#e7ecdf" stroke-opacity=".05"/>
+    <g fill="#8eaccb" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">
+      <text x="76" y="65">SYSTEMS IN MOTION</text>
+      <text x="990" y="65" font-size="13" letter-spacing="2">OSC / ART-NET / UDP</text>
+    </g>
+    <rect x="76" y="111" width="46" height="4" rx="2" fill="#67e8f9"/>
+    <text x="70" y="227" fill="#eef7ff" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="-3">PRANAV K B</text>
+    <g fill="#cfdeef" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing="-.3">
+      <text x="76" y="286">AV Systems &amp;</text>
+      <text x="76" y="327">Immersive Experience Engineer</text>
+    </g>
+    <text x="76" y="397" fill="#8fa9c5" font-family="Arial, Helvetica, sans-serif" font-size="21">Connecting software, hardware, and human interaction.</text>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2" fill="#a2bad4">
+      <circle cx="82" cy="493" r="5" fill="#67e8f9"/>
+      <text x="103" y="498">DUBAI, UAE</text>
+      <text x="433" y="498">VIDEO · INTERACTIVE · SHOW CONTROL</text>
+    </g>
+    <g fill="none" stroke="#607766" stroke-opacity=".22" stroke-width="1">
+      <path d="M966 421L1280 333L1578 443M996 464L1310 376L1608 486M1017 511L1340 421L1638 531"/>
+      <path d="M990 419L1085 534M1080 395L1175 510M1170 371L1265 486M1260 347L1355 462M1350 360L1445 475M1440 393L1535 508"/>
+    </g>
+    <g fill="none" stroke="#328fe0" stroke-opacity=".42"><path d="M1089 408L1360 327L1510 394L1239 474Z"/><path d="M1090 416L1240 482L1510 403"/><path d="M1239 474V482M1510 394V403M1090 408V416"/></g><g transform="translate(1100 127) skewY(-17)">
+      <rect x="34" y="-3" width="330" height="231" rx="8" fill="#0f2038" stroke="#6c8b75" stroke-opacity=".35"/>
+      <rect x="13" y="17" width="330" height="231" rx="8" fill="#0b2341" stroke="#8bb49a" stroke-opacity=".5"/>
+      <rect x="-8" y="38" width="330" height="231" rx="8" fill="url(#panel)" stroke="url(#edge)" stroke-width="1.5"/>
+      <g stroke="#74917d" stroke-opacity=".2" fill="none">
+        <path d="M16 67H298M16 98H298M16 129H298M16 160H298M16 191H298M16 222H298M16 251H298"/>
+        <path d="M16 67V251M51 67V251M86 67V251M121 67V251M156 67V251M191 67V251M226 67V251M261 67V251M298 67V251"/>
+      </g>
+      <path d="M16 173H55L69 154L83 202L102 109L125 211L149 157L168 173H194L208 152L223 186L241 159L254 173H298" fill="none" stroke="#67e8f9" stroke-width="3" filter="url(#glow)" stroke-linejoin="round" stroke-linecap="round"/>
+      <circle cx="16" cy="173" r="5" fill="#67e8f9"/>
+      <circle cx="298" cy="173" r="5" fill="#67e8f9"/>
+      <path d="M4 43H16M-3 48V59M306 246H315M315 235V245" fill="none" stroke="#c5e7d0" stroke-width="2"/>
+    </g>
+    <g fill="none" stroke="#67e8f9" stroke-width="1.5" filter="url(#glow)">
+      <path d="M1000 291H1030V267H1090"/>
+      <path d="M1422 329H1480V377H1540"/>
+    </g>
+    <g fill="#67e8f9">
+      <rect x="984" y="276" width="30" height="30" rx="6"/>
+      <circle cx="1540" cy="377" r="7"/>
+    </g>
+    <path d="M993 292H1006M1000 285V299" stroke="#082b46" stroke-width="2"/>
+    <g fill="#80a5c8" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">
+      <text x="983" y="327">CONTROL</text>
+      <text x="1460" y="409">OUTPUT</text>
+      <text x="991" y="498">SOFTWARE × HARDWARE</text>
+      <text x="1490" y="498">01</text>
+    </g>
+    <g fill="#67e8f9" opacity=".6"><circle cx="1010" cy="163" r="2"/><circle cx="1527" cy="134" r="2"/><circle cx="1071" cy="372" r="2"/><circle cx="1410" cy="432" r="2"/></g><g stroke="#446685" stroke-width="1"><path d="M888 169h12m-6 -6v12M859 371h12m-6 -6v12M1520 228h12m-6 -6v12"/></g><rect x=".5" y=".5" width="1599" height="539" rx="24" fill="none" stroke="#a5beaa" stroke-opacity=".12"/>
+  </g>
+</svg>

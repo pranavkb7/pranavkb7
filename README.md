@@ -1,37 +1,58 @@
-# Pranav K B
-### AV Systems & Immersive Experience Engineer
+<p align="center">
+  <img src="hero.svg" width="100%" alt="Pranav K B — AV Systems & Immersive Experience Engineer, Dubai" />
+</p>
 
-Dubai, UAE · Mechatronics background
+<p align="center">
+  <a href="https://github.com/pranavkb7/PRANAV-BIJITH"><strong>Explore portfolio ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/pranavkb7/PRANAV-BIJITH/blob/main/projects/README.md">Project notebook</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:pranavkbijith@gmail.com">Get in touch</a>
+</p>
 
-I work with video, lighting, networking, and show control for live events and interactive installations. I connect media servers, sensors, hardware, and software to build experiences that respond to people.
+<br />
 
-## Areas of work
+## Software meets the physical world.
 
-- **Video engineering:** media server playback, display mapping, LED systems, and video switching.
-- **Interactive experiences:** sensor input, real-time visuals, and custom applications.
-- **Show control:** communication between playback, lighting, and hardware using OSC, UDP, TCP, DMX, and Art-Net.
-- **Hardware integration:** microcontrollers, motors, and sensors for physical interaction.
-- **Application development:** Python and AI-assisted development for event tools and workflow automation.
+I’m Pranav, an AV Systems & Immersive Experience Engineer based in Dubai, with a background in mechatronics. I work across video, lighting, networking, and show control—connecting real-time visuals, sensors, and hardware to create experiences that respond to people.
 
-## Tools & technologies
+### My focus
 
-| Area | Tools |
-| --- | --- |
-| Media servers & playback | Disguise · Resolume Arena · Watchout · Ventuz |
-| Real-time & interactive | TouchDesigner · Unreal Engine |
-| Video switching | Barco E2 · Analog Way · Blackmagic |
-| Lighting & control | MADRIX · ChamSys · Avolites |
-| Programming & hardware | Python · C++ · Arduino · ESP32 · Raspberry Pi |
-| Design & engineering | SolidWorks · AutoCAD |
+| 01 / VIDEO SYSTEMS | 02 / INTERACTIVE EXPERIENCES | 03 / CONTROL & HARDWARE |
+| :--- | :--- | :--- |
+| Media server playback, display mapping, LED systems, and video switching. | Sensor-driven visuals, visitor interaction, and custom event applications. | Show control, microcontrollers, motor control, and system integration. |
 
-## Portfolio
+<br />
 
-[**Engineering portfolio →**](https://github.com/pranavkb7/PRANAV-BIJITH)
+## The toolkit
 
-I am organizing project documentation around interactive systems, show control, hardware integration, and custom event applications. Each project will explain the problem, system setup, implementation, and results, with demos or code where available.
+| Discipline | Tools & technologies |
+| :--- | :--- |
+| **Media & playback** | Disguise · Resolume Arena · Watchout · Ventuz |
+| **Real-time experiences** | TouchDesigner · Unreal Engine |
+| **Video & lighting** | Barco E2 · Analog Way · Blackmagic · MADRIX · ChamSys · Avolites |
+| **Code & hardware** | Python · C++ · Arduino · ESP32 · Raspberry Pi |
+| **Communication** | OSC · UDP · TCP · DMX · Art-Net |
+| **Engineering & design** | SolidWorks · AutoCAD |
 
-## Collaboration & contact
+I also use AI-assisted development to build practical event tools and automate workflows.
 
-Interested in AV integration, interactive installations, show control, and practical tools for event production.
+<br />
 
-**Email:** [pranavkbijith@gmail.com](mailto:pranavkbijith@gmail.com)
+## Inside the portfolio
+
+**[Engineering portfolio ↗](https://github.com/pranavkb7/PRANAV-BIJITH)**  
+A growing notebook for interactive systems, AV workflows, hardware integration, and event applications.
+
+I’m preparing case studies that explain the requirement, system design, implementation, and results—with diagrams, demos, or code where available.
+
+[Browse the project index](https://github.com/pranavkb7/PRANAV-BIJITH/blob/main/projects/README.md) · [View the case study format](https://github.com/pranavkb7/PRANAV-BIJITH/blob/main/docs/project-template.md)
+
+---
+
+<p align="center">
+  <strong>Let’s build something people can interact with.</strong><br />
+  AV integration · Interactive installations · Show control<br /><br />
+  <a href="mailto:pranavkbijith@gmail.com">pranavkbijith@gmail.com</a>
+</p>
+
